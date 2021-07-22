@@ -5,4 +5,4 @@ diCoding Front End Submission 1 adalah tugas akhir yang diberikan untuk lulus pa
 ![Web capture_22-7-2021_132415_www dicoding com](https://user-images.githubusercontent.com/56010150/126597818-0f7dcb53-c114-4113-b6c1-055960f7efd4.jpeg)
 Gambar 1: Penilaian dari tim diCoding Indonesia
 
-<p style="text-align:center">cingcau la</p>
+<p align="center">cingcau la</p>
