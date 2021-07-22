@@ -14,3 +14,6 @@ Gambar 1: Penilaian dari tim diCoding Indonesia
 ![Preview-10](https://user-images.githubusercontent.com/56010150/126635954-3a3fb458-1ae4-4569-add6-2a678aacbf5c.jpg)
 
 
+<p>
+  <img src="https://user-images.githubusercontent.com/56010150/126635954-3a3fb458-1ae4-4569-add6-2a678aacbf5c.jpg" width="300" height="424"/>
+</p>
