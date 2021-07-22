@@ -11,4 +11,6 @@ Gambar 1: Penilaian dari tim diCoding Indonesia
 
 1. Mencari ide untuk membuat sebuah landing page. Dan saya mendapatkan ide untuk mengkonversi sebuah template flyer kesehatan buatan git-aja.
 
+![Preview-10](https://user-images.githubusercontent.com/56010150/126635954-3a3fb458-1ae4-4569-add6-2a678aacbf5c.jpg)
+
 
